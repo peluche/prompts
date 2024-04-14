@@ -1,2 +1,2 @@
 # prompts
-Some prompts I use in my GPT.
+Some prompts I use in my GPTs.
