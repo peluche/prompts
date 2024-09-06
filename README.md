@@ -1,2 +1,5 @@
 # prompts
-Some prompts I use in my GPTs.
+prompt related things:
+- jailbreak (more at https://github.com/peluche/deck-of-many-prompts)
+- prompt engineering snippets
+- GPTs
